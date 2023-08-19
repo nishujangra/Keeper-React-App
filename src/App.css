@@ -32,6 +32,18 @@
 }
 
 
+/* Group of Notes */
+.note-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+@media (max-width: 576px) {
+  .note-group {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+}
+
 /* Note prototype */
 .note {
   background: #fff;
