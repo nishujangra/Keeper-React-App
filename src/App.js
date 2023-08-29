@@ -1,8 +1,8 @@
 import './App.css';
 import React, { useState } from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Note from './components/Note';
+import Header from './components/header';
+import Footer from './components/footer';
+import Note from './components/note';
 // import notes from './notes';
 import CreateArea from './components/CreateArea';
 
