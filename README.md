@@ -1,6 +1,6 @@
 Certainly! Below is an example of a README.md file for your Keeper React app project. You can customize it further to match your project's details and structure.
 
-```markdown
+
 # Keeper App - A Note-Taking React Application
 
 Keeper App is a simple and intuitive note-taking application built using React. It allows users to create, edit, and organize their notes efficiently.
