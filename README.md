@@ -64,11 +64,7 @@ Follow these steps to set up and run the Keeper App on your local machine:
 
    - Click the "Delete" button on a note to remove it.
 
-5. **Organize notes:**
-
-   - Drag and drop notes to rearrange their order.
-
-6. **Responsive design:**
+5. **Responsive design:**
 
    The app is designed to work well on various screen sizes, including desktop, tablet, and mobile devices.
 
